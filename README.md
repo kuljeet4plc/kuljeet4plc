@@ -5,4 +5,4 @@ Neural Network analysis, Sythetic correlation.
 
 Now Started exploring the world of Data science. Diving deep into data science with focus on data analytics.
 
-Hachathons Winner
+Hachathon's Winner
